@@ -1,2 +1,2 @@
 # test-integration
-Files to test hardware performance, such as audio and integrate arduino serial output to python environment.
+Files to test hardware audio performance (microphone) and integrate arduino serial output to python environment.
